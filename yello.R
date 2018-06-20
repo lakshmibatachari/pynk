@@ -1,9 +1,13 @@
-#title: script
-#author: Lakshmi Batachari
-#date: June 20, 2018
-#output: html_document
+#' ---
+#' title: "test script"
+#' author: "Lakshmi"
+#' date: "`r format(Sys.Date())`"
+#' output: github_document
+#' ---
+#'
+#'Test **code**
 
-#+ r setup, include = FALSE
+## a simple plot
 x <- c(1, 2, 3, 4)
 y <- log(x)
 plot (y~x)
