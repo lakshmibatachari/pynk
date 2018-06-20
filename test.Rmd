@@ -2,7 +2,7 @@
 title: "test"
 author: "Lakshmi Batachari"
 date: "June 20, 2018"
-output: github_document 
+output: github_document #outputs readable version in github
 ---
 
 This is a test
