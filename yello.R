@@ -7,7 +7,8 @@
 #'
 #'Test **code**
 
-## a simple plot
+#+ dotchart
+# a simple plot
 x <- c(1, 2, 3, 4)
 y <- log(x)
 plot (y~x)

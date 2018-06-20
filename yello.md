@@ -6,10 +6,10 @@ Lakshmi
 Test **code**
 
 ``` r
-## a simple plot
+# a simple plot
 x <- c(1, 2, 3, 4)
 y <- log(x)
 plot (y~x)
 ```
 
-![](yello_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](yello_files/figure-markdown_github/dotchart-1.png)
